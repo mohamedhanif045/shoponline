@@ -1,0 +1,18 @@
+.services {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .services h1 {
+    color: blue;
+  }
+  
+  .services ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .services li {
+    color: white;
+   
+  }  

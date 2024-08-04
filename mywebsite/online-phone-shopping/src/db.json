@@ -1,0 +1,127 @@
+{
+    "phones": [
+      {
+        "id": 1,
+        "name": "Phone Model A",
+        "price": "10,299",
+        "imageUrl": "https://img.kilimall.com/c/public/store/2096/goods/image/101617610.png?x-image-process=image/format,webp/resize,w_360#",
+        "buyLink": "#phone-model-a"
+      },
+      {
+        "id": 2,
+        "name": "Phone Model B",
+        "price": "10,888",
+        "imageUrl": "https://image.kilimall.com/kenya/shop/store/goods/7733/2022/06/1655100894406d00daa29d9714f2e9604d729808b8a69_360.jpg.webp#",
+        "buyLink": "#phone-model-b"
+      },
+      {
+        "id": 3,
+        "name": "Phone Model C",
+        "price": "8,999",
+        "imageUrl": "https://img.kilimall.com/c/obs/seller/3469/goods_image/240727144520_4c5322623c10df0fb78ab7552f383d8d.jpg?x-image-process=image/format,webp/resize,w_360#",
+        "buyLink": "#phone-model-c"
+      },
+      {
+        "id": 4,
+        "name": "Phone Model D",
+        "price": "10,299",
+        "imageUrl": "https://img.kilimall.com/c/public/store/2819/goods/image/101812141.jpg?x-image-process=image/format,webp/resize,w_360#",
+        "buyLink": "#phone-model-d"
+      },
+      {
+        "id": 5,
+        "name": "Phone Model E",
+        "price": "13,145",
+        "imageUrl": "https://img.kilimall.com/c/public/store/8299/goods/image/100994593.jpeg?x-image-process=image/format,webp/resize,w_360#",
+        "buyLink": "#phone-model-e"
+      },
+      {
+        "id": 6,
+        "name": "Phone Model F",
+        "price": "13,299",
+        "imageUrl": "https://image.kilimall.com/kenya/shop/store/goods/2096/2024/01/17042770113419a3d279c343340e4b026818b1c5e0e33_360.png.webp#",
+        "buyLink": "#phone-model-f"
+      },
+      {
+        "id": 7,
+        "name": "Phone Model G",
+        "price": "6,199",
+        "imageUrl": "https://image.kilimall.com/kenya/shop/store/goods/5963/2022/08/1660044709638fd34ee6c08d24c0488c61884b4d46ca6_360.jpg.webp#",
+        "buyLink": "#phone-model-g"
+      },
+      {
+        "id": 8,
+        "name": "Phone Model H",
+        "price": "8,999",
+        "imageUrl": "https://img.kilimall.com/c/public/store/2819/goods/image/101812141.jpg?x-image-process=image/format,webp/resize,w_360#",
+        "buyLink": "#phone-model-h"
+      }
+    ],
+    "services": [
+      {
+        "id": 1,
+        "title": "Phone Sales",
+        "description": "We offer the latest and most popular phone models at competitive prices. All phones come with a warranty to give you peace of mind."
+      },
+      {
+        "id": 2,
+        "title": "Phone Repair",
+        "description": "Professional phone repair services. Our skilled technicians can handle screen cracks, battery issues, and more with high-quality parts and quick turnaround times."
+      },
+      {
+        "id": 3,
+        "title": "Accessories",
+        "description": "A variety of accessories to enhance your phone experience. From protective cases to charging cables, we have everything you need."
+      },
+      {
+        "id": 4,
+        "title": "Customer Support",
+        "description": "Our customer support team is here to help with any questions or issues you may have. We are committed to providing excellent service."
+      }
+    ],
+    "socialLinks": [
+      {
+        "id": 1,
+        "platform": "Email",
+        "url": "mailto:your-email@gmail.com",
+        "icon": "fas fa-envelope"
+      },
+      {
+        "id": 2,
+        "platform": "YouTube",
+        "url": "https://youtube.com/your-channel",
+        "icon": "fab fa-youtube"
+      },
+      {
+        "id": 3,
+        "platform": "TikTok",
+        "url": "https://www.tiktok.com/@yourprofile",
+        "icon": "fab fa-tiktok"
+      },
+      {
+        "id": 4,
+        "platform": "Phone",
+        "url": "tel:+1234567890",
+        "icon": "fas fa-phone"
+      },
+      {
+        "id": 5,
+        "platform": "WhatsApp",
+        "url": "https://wa.me/yourwhatsappnumber",
+        "icon": "fab fa-whatsapp"
+      },
+      {
+        "id": 6,
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/yourprofile",
+        "icon": "fab fa-instagram"
+      },
+      {
+        "id": 7,
+        "platform": "Twitter",
+        "url": "https://twitter.com/yourprofile",
+        "icon": "fab fa-twitter"
+      }
+    ]
+  }
+  
